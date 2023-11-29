@@ -1,0 +1,59 @@
+body {background-image: url("header.jpg");
+color:#070045;
+margin: 0 auto;
+max-width: 70%;
+font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;
+}
+
+h1{
+font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;
+font-size: 2.5em;
+text-align: center;
+}
+
+ul {color:#280249;
+    font-size: 1.5em;
+    list-style-position:outside;
+}
+
+img {
+    margin-top: 0em;
+    padding-top: 1em;
+    margin-bottom: 1em;
+    height: 300px;
+    width:450px;
+    }
+
+p{
+font-size:1.5em;
+font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;
+margin: 0 auto;
+max-width: 50em;
+line-height: 1.5;
+max-width: 100%;
+text-align: inherit;
+    }
+
+hr{
+border-color: #070045;
+width: 100%;
+}
+
+    code,
+
+    a{color:rgb(3, 0, 35);
+    font-size: 1.2em;}
+  
+    pre {
+      opacity: 0.3;
+      background: #eee;
+    }
+    
+    code {
+      padding: 1px 1px;
+      vertical-align: text-bottom;
+    }
+    
+    pre {
+      padding: 0.2em;
+    }
